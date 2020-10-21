@@ -1,0 +1,19 @@
+{
+  "name": "RawDawg/vendidero-helper",
+  "description": "Will help vendidero users to manage their licenses and receive automatic updates.",
+  "type": "wordpress-plugin",
+  "dist": {
+    "url": "git@github.com:RawDawg/vendidero-helper.git",
+    "type": "git"
+  },
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Vendidero",
+      "homepage": "https://vendidero.de"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
